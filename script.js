@@ -8,7 +8,7 @@ document.querySelector('.formulario__login').addEventListener('submit', function
     // Aquí puedes agregar la lógica para verificar las credenciales
 
     // Si las credenciales son correctas, redirige al usuario
-    window.location.href = 'https://www.twitch.tv/alphaverdaderojuega';
+    window.location.href = 'https://alphaediting.github.io/Jaac61/';
 });
 
 
